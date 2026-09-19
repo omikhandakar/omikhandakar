@@ -154,24 +154,6 @@ Explore my GitHub repositories to see my academic, experimental, and personal pr
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omikhandakar&theme=tokyonight" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omikhandakar&theme=tokyonight" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omikhandakar&theme=tokyonight" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omikhandakar&theme=tokyonight" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omikhandakar&theme=tokyonight&utcOffset=6" width="45%"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
