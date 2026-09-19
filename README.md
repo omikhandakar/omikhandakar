@@ -1,9 +1,3 @@
-<!-- ===================================================== -->
-
-<!--                    PROFILE HEADER                     -->
-
-<!-- ===================================================== -->
-
 <h1 align="center">Hi 👋, I'm Omi Khandakar</h1>
 
 <h3 align="center">
@@ -24,7 +18,7 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 🎓 I'm a **Computer Science & Engineering student** passionate about building practical software and exploring modern technologies.
 
@@ -40,10 +34,18 @@
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=omikhandakar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omikhandakar&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -83,6 +85,9 @@ A Java-based reservation system designed with booking, cancellation, search, pay
 `Java` `Swing` `File I/O` `OOP`
 
 </td>
+</tr>
+
+<tr>
 
 <td width="50%">
 
@@ -95,6 +100,19 @@ Currently exploring mobile application development using Flutter and Dart.
 `Flutter` `Dart` `Android` `Firebase`
 
 </td>
+
+<td width="50%">
+
+### 💻 More Projects
+
+Explore my GitHub repositories to see my academic, experimental, and personal projects.
+
+<a href="https://github.com/omikhandakar?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
 </tr>
 </table>
 
@@ -146,23 +164,17 @@ Currently exploring mobile application development using Flutter and Dart.
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omikhandakar&theme=tokyonight" width="95%"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omikhandakar&theme=tokyonight" width="95%"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omikhandakar&theme=tokyonight" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omikhandakar&theme=tokyonight" width="45%"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omikhandakar&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omikhandakar&theme=tokyonight" width="45%"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omikhandakar&theme=tokyonight" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omikhandakar&theme=tokyonight&utcOffset=6" width="45%"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omikhandakar&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omikhandakar&theme=tokyonight&utcOffset=6" width="45%"/>
 </p>
 
 ---
