@@ -40,35 +40,10 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omikhandakar&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omikhandakar&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=omikhandakar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omikhandakar&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omikhandakar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -97,27 +72,6 @@ A blood donation and management focused software project.
 
 </td>
 
-<td width="50%">
-
-### 🌍 Bhromon Sathi
-
-A travel-oriented software project designed to help users explore and manage travel-related information.
-
-**Focus:**
-
-* 🌍 Travel management
-* 📍 Destination information
-* 🗺️ Travel planning
-* 💻 Application development
-
-<a href="https://github.com/omikhandakar">
-<img src="https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🚆 Railway Reservation System
