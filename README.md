@@ -139,6 +139,7 @@ Explore my GitHub repositories to see my academic, experimental, and personal pr
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="45" alt="iOS"/>
 </p>
 
 ### 🔧 Tools & Platforms
