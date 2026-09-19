@@ -172,22 +172,6 @@ Explore my GitHub repositories to see my academic, experimental, and personal pr
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omikhandakar/omikhandakar/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/omikhandakar" alt="Omi's GitHub Contribution Calendar"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
