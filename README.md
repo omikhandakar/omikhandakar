@@ -40,27 +40,6 @@
 
 ---
 
-## 🧑‍💻 Current Focus
-
-```text
-🔐 Cybersecurity
-████████████████░░░░ 80%
-
-🚀 Backend Development
-████████████████░░░░ 80%
-
-📱 Flutter / Mobile Development
-██████████████░░░░░░ 70%
-
-🌐 Full Stack Development
-████████████████░░░░ 80%
-
-☁️ Cloud & DevOps
-██████████░░░░░░░░░░ 50%
-```
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
